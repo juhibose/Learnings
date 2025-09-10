@@ -130,5 +130,24 @@ Profit % = DIVIDE(SUM(Sales[Profit]), SUM(Sales[Revenue]), 0)
 
 ## 9. Useful Resources
 
-*(Add your favorite links, blogs, and tutorials here)*
+## 🔗 PL-300 Power BI Data Analyst – Course Prep & Practice Tests
+
+### 1. Microsoft Official Practice Assessment
+- **Description:** Free practice questions directly from Microsoft, reflecting the real exam style.
+- **Link:** [Microsoft Official Practice](https://learn.microsoft.com/en-us/credentials/certifications/practice-assessments-for-microsoft-certifications?utm_source=chatgpt.com)
+
+### 2. ExamTopics PL-300
+- **Description:** Community-driven platform offering a wide range of practice questions and discussions. - best really helped me alot.
+- **Link:** [ExamTopics PL-300](https://www.examtopics.com/exams/microsoft/pl-300/)
+
+### 3. LinkedIn Learning Practice Exam 1
+- **Description:** Structured practice exam with detailed explanations, simulating the real exam environment.
+- **Link:** [LinkedIn Learning PL-300 Practice Exam](https://www.linkedin.com/learning/practice-exam-1-for-power-bi-data-analyst-associate-pl-300?u=95924298)
+
+---
+
+### 📘 Additional Study Resources
+- **Microsoft PL-300 Study Guide:** Comprehensive guide covering all exam objectives.  
+
+
 
