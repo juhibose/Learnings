@@ -82,3 +82,52 @@ DAX is a **formula language** for calculations and aggregations in Power BI.
 ```DAX
 Total Sales = SUM(Sales[Amount])
 Profit % = DIVIDE(SUM(Sales[Profit]), SUM(Sales[Revenue]), 0)
+
+
+## 5. Reports vs Dashboards
+
+| Feature           | Reports                  | Dashboards                  |
+|------------------|--------------------------|-----------------------------|
+| **Source**       | Single dataset           | Can combine multiple datasets |
+| **Pages**        | Multi-page               | Single-page                 |
+| **Interactivity**| Highly interactive       | Limited interactivity       |
+| **Usage**        | For in-depth analysis    | For quick monitoring        |
+
+---
+
+## 6. Common Visualizations
+
+- **Bar / Column Charts** → Compare categories  
+- **Line Charts** → Show trends over time  
+- **Pie / Donut Charts** → Show proportions  
+- **Matrix / Table** → Detailed tabular data  
+- **Slicers** → Add filters to reports  
+- **KPI Cards & Gauge Visuals** → Highlight key metrics  
+- **Maps** → Geographic analysis  
+
+---
+
+## 7. Performance Optimization Tips
+
+- Use **Star Schema** for faster queries  
+- Avoid importing unnecessary columns  
+- Use **measures** instead of calculated columns when possible  
+- Prefer **Import Mode** over DirectQuery for smaller datasets  
+- Aggregate data before importing when possible  
+
+---
+
+## 8. Security Features
+
+- **Row-Level Security (RLS)** → Restrict data visibility based on user roles  
+- **Workspace Roles**:
+  - **Viewer** → Can view dashboards only  
+  - **Contributor** → Can edit reports  
+  - **Member/Admin** → Full access  
+
+---
+
+## 9. Useful Resources
+
+*(Add your favorite links, blogs, and tutorials here)*
+
