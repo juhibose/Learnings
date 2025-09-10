@@ -82,6 +82,7 @@ DAX is a **formula language** for calculations and aggregations in Power BI.
 ```DAX
 Total Sales = SUM(Sales[Amount])
 Profit % = DIVIDE(SUM(Sales[Profit]), SUM(Sales[Revenue]), 0)
+```
 
 
 ## 5. Reports vs Dashboards
